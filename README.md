@@ -1,4 +1,4 @@
-# Support Ticket Classification
+# FUTURE_ML_02 - Support Ticket Classification
 
 ## Objective
 Build a machine learning model to classify customer support tickets into different categories.
@@ -14,12 +14,12 @@ Customer Support Tickets Dataset
 ## Process
 1. Loaded dataset
 2. Cleaned text data
-3. Converted text using TF-IDF Vectorizer
+3. Converted text data using TF-IDF Vectorizer
 4. Trained Multinomial Naive Bayes model
 5. Evaluated model using Classification Report
 
 ## Results
-The model successfully classified support tickets into categories such as:
+The model successfully classified support tickets into:
 - Billing inquiry
 - Cancellation request
 - Product inquiry
